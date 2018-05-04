@@ -20,17 +20,21 @@
 // ** Configurações do MySQL - Você pode pegar estas informações
 // com o serviço de hospedagem ** //
 /** O nome do banco de dados do WordPress */
-define('DB_NAME', 'oneoonee_main');
+define('DB_NAME', 'oneoone-db');
 /** Usuário do banco de dados MySQL */
-define('DB_USER', 'oneoonee_main');
+define('DB_USER', 'remo-ooo-db');
 /** Senha do banco de dados MySQL */
-define('DB_PASSWORD', 'ar5kezrpnx');
+define('DB_PASSWORD', 'REMO-ooo#1');
 /** Nome do host do MySQL */
-define('DB_HOST', 'localhost');
+define('DB_HOST', 'mysql857.umbler.com');
 /** Charset do banco de dados a ser usado na criação das tabelas. */
 define('DB_CHARSET', 'utf8mb4');
 /** O tipo de Collate do banco de dados. Não altere isso se tiver dúvidas. */
 define('DB_COLLATE', '');
+
+define('WP_HOME','http://oneoone-eco-br.umbler.net/');
+define('WP_SITEURL','http://oneoone-eco-br.umbler.net/');
+
 /**#@+
  * Chaves únicas de autenticação e salts.
  *
