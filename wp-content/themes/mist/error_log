@@ -1,0 +1,5 @@
+[02-Oct-2017 15:55:56 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/oneooneeco/public_html/wp-content/themes/mist/index.php on line 29
+[18-Oct-2017 16:49:28 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/oneooneeco/public_html/wp-content/themes/mist/index.php on line 29
+[10-Jan-2018 06:17:13 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/oneooneeco/public_html/wp-content/themes/mist/404.php on line 17
+[18-Mar-2018 11:30:31 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/oneooneeco/public_html/wp-content/themes/mist/archive.php on line 17
+[19-Mar-2018 22:42:49 America/Chicago] PHP Fatal error:  Call to undefined function language_attributes() in /home/oneooneeco/public_html/wp-content/themes/mist/header.php on line 25

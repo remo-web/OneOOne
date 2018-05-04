@@ -1,0 +1,10 @@
+[02-Oct-2017 16:08:31 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home/oneooneeco/public_html/wp-content/plugins/Ultimate_VC_Addons/params/Ultimate_BoxShadow.php on line 44
+[02-Oct-2017 16:08:31 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home/oneooneeco/public_html/wp-content/plugins/Ultimate_VC_Addons/params/Ultimate_Spacing.php on line 9
+[02-Oct-2017 16:08:31 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home/oneooneeco/public_html/wp-content/plugins/Ultimate_VC_Addons/params/Ultimate_Border.php on line 9
+[02-Oct-2017 16:08:31 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home/oneooneeco/public_html/wp-content/plugins/Ultimate_VC_Addons/params/Ultimate_Responsive.php on line 55
+[02-Oct-2017 16:08:31 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home/oneooneeco/public_html/wp-content/plugins/Ultimate_VC_Addons/params/Ultimate_Image_Single.php on line 40
+[18-Oct-2017 17:10:10 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home/oneooneeco/public_html/wp-content/plugins/Ultimate_VC_Addons/params/Ultimate_Border.php on line 9
+[18-Oct-2017 17:10:11 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home/oneooneeco/public_html/wp-content/plugins/Ultimate_VC_Addons/params/Ultimate_Spacing.php on line 9
+[18-Oct-2017 17:10:11 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home/oneooneeco/public_html/wp-content/plugins/Ultimate_VC_Addons/params/Ultimate_BoxShadow.php on line 44
+[18-Oct-2017 17:10:11 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home/oneooneeco/public_html/wp-content/plugins/Ultimate_VC_Addons/params/Ultimate_Responsive.php on line 55
+[18-Oct-2017 17:10:11 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home/oneooneeco/public_html/wp-content/plugins/Ultimate_VC_Addons/params/Ultimate_Image_Single.php on line 40

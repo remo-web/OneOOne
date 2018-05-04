@@ -1,0 +1,8 @@
+[02-Oct-2017 15:59:46 America/Chicago] PHP Fatal error:  Class 'WP_REST_Meta_Fields' not found in /home/oneooneeco/public_html/wp-includes/rest-api/fields/class-wp-rest-post-meta-fields.php on line 17
+[02-Oct-2017 15:59:46 America/Chicago] PHP Fatal error:  Class 'WP_REST_Meta_Fields' not found in /home/oneooneeco/public_html/wp-includes/rest-api/fields/class-wp-rest-term-meta-fields.php on line 17
+[02-Oct-2017 15:59:46 America/Chicago] PHP Fatal error:  Class 'WP_REST_Meta_Fields' not found in /home/oneooneeco/public_html/wp-includes/rest-api/fields/class-wp-rest-user-meta-fields.php on line 17
+[02-Oct-2017 15:59:46 America/Chicago] PHP Fatal error:  Class 'WP_REST_Meta_Fields' not found in /home/oneooneeco/public_html/wp-includes/rest-api/fields/class-wp-rest-comment-meta-fields.php on line 17
+[18-Oct-2017 16:59:18 America/Chicago] PHP Fatal error:  Class 'WP_REST_Meta_Fields' not found in /home/oneooneeco/public_html/wp-includes/rest-api/fields/class-wp-rest-term-meta-fields.php on line 17
+[18-Oct-2017 16:59:18 America/Chicago] PHP Fatal error:  Class 'WP_REST_Meta_Fields' not found in /home/oneooneeco/public_html/wp-includes/rest-api/fields/class-wp-rest-user-meta-fields.php on line 17
+[18-Oct-2017 16:59:19 America/Chicago] PHP Fatal error:  Class 'WP_REST_Meta_Fields' not found in /home/oneooneeco/public_html/wp-includes/rest-api/fields/class-wp-rest-post-meta-fields.php on line 17
+[18-Oct-2017 16:59:19 America/Chicago] PHP Fatal error:  Class 'WP_REST_Meta_Fields' not found in /home/oneooneeco/public_html/wp-includes/rest-api/fields/class-wp-rest-comment-meta-fields.php on line 17

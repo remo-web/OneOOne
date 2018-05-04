@@ -1,0 +1,733 @@
+[06-Sep-2017 17:56:43] Erro de banco de dados do WordPress Unknown column 'wp_' in 'field list' para a consulta SELECT wp_
+[08-Sep-2017 12:05:40 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[16-Sep-2017 10:31:35 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[16-Sep-2017 10:50:07 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[16-Sep-2017 17:33:07 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[16-Sep-2017 17:33:07 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[16-Sep-2017 17:33:07 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[16-Sep-2017 17:33:07 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[16-Sep-2017 17:33:07 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[16-Sep-2017 17:33:07 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[16-Sep-2017 17:33:07 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[16-Sep-2017 17:33:07 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[16-Sep-2017 17:33:07 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[16-Sep-2017 17:33:07 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[16-Sep-2017 17:33:07 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[16-Sep-2017 17:33:07 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[16-Sep-2017 17:33:07 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[16-Sep-2017 17:33:07 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[16-Sep-2017 17:33:07 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[16-Sep-2017 17:33:07 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[16-Sep-2017 17:33:07 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[16-Sep-2017 17:33:07 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[16-Sep-2017 17:33:07 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[16-Sep-2017 17:33:07 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[16-Sep-2017 17:33:07 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[16-Sep-2017 17:33:07 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[16-Sep-2017 17:33:07 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[16-Sep-2017 17:33:07 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[16-Sep-2017 17:33:07 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[16-Sep-2017 17:33:07 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[16-Sep-2017 17:33:07 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[16-Sep-2017 17:33:07 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[16-Sep-2017 17:33:07 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[16-Sep-2017 17:33:07 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[16-Sep-2017 17:33:07 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[16-Sep-2017 17:33:07 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[16-Sep-2017 17:33:07 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[16-Sep-2017 17:33:07 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[16-Sep-2017 17:33:07 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[16-Sep-2017 17:33:07 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[16-Sep-2017 17:33:07 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[16-Sep-2017 17:33:07 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[16-Sep-2017 17:33:07 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[16-Sep-2017 17:33:07 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[16-Sep-2017 17:33:07 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[16-Sep-2017 17:33:07 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[16-Sep-2017 17:33:07 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[16-Sep-2017 17:33:07 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[16-Sep-2017 17:33:07 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[16-Sep-2017 17:33:07 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[16-Sep-2017 17:33:07 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[16-Sep-2017 17:33:07 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[16-Sep-2017 17:33:07 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[16-Sep-2017 17:33:07 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[16-Sep-2017 17:33:07 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[16-Sep-2017 17:33:07 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[16-Sep-2017 17:33:07 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[16-Sep-2017 17:33:07 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[16-Sep-2017 17:33:07 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[16-Sep-2017 17:33:07 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[16-Sep-2017 17:33:07 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[16-Sep-2017 17:33:07 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[16-Sep-2017 17:33:07 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[16-Sep-2017 17:33:07 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[16-Sep-2017 17:33:07 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[16-Sep-2017 17:33:07 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[16-Sep-2017 17:33:07 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[16-Sep-2017 17:33:07 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[16-Sep-2017 17:33:07 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[16-Sep-2017 17:33:07 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[16-Sep-2017 17:33:07 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[16-Sep-2017 17:33:07 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[16-Sep-2017 17:33:07 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[16-Sep-2017 17:33:07 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[16-Sep-2017 17:33:07 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[16-Sep-2017 17:33:07 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[16-Sep-2017 17:33:07 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[16-Sep-2017 17:33:07 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[16-Sep-2017 17:33:07 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[16-Sep-2017 17:33:07 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[16-Sep-2017 17:33:07 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[16-Sep-2017 17:33:07 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[16-Sep-2017 17:33:07 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[16-Sep-2017 17:33:07 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[16-Sep-2017 17:33:07 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[16-Sep-2017 17:33:07 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[16-Sep-2017 17:33:07 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[16-Sep-2017 17:33:07 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[16-Sep-2017 17:33:07 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[16-Sep-2017 17:33:07 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[16-Sep-2017 17:33:07 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[16-Sep-2017 17:33:07 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[16-Sep-2017 17:33:07 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[16-Sep-2017 17:33:07 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[16-Sep-2017 17:33:07 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[16-Sep-2017 17:33:07 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[16-Sep-2017 17:33:07 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[16-Sep-2017 17:33:07 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[16-Sep-2017 17:33:07 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[16-Sep-2017 17:33:07 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[16-Sep-2017 17:33:07 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[16-Sep-2017 17:33:07 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[16-Sep-2017 17:33:07 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[16-Sep-2017 17:33:07 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[16-Sep-2017 17:33:07 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[16-Sep-2017 17:33:07 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[16-Sep-2017 17:33:07 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[16-Sep-2017 17:33:07 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[16-Sep-2017 17:33:07 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[16-Sep-2017 17:33:07 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[16-Sep-2017 17:33:07 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[16-Sep-2017 17:33:07 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[16-Sep-2017 17:33:07 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[16-Sep-2017 17:33:07 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[16-Sep-2017 17:33:07 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[16-Sep-2017 17:33:07 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[16-Sep-2017 17:33:07 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[16-Sep-2017 17:33:07 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[16-Sep-2017 17:33:07 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[16-Sep-2017 17:33:07 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[16-Sep-2017 17:33:07 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[16-Sep-2017 17:33:07 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[16-Sep-2017 17:33:07 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[16-Sep-2017 17:33:07 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[16-Sep-2017 17:33:07 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[16-Sep-2017 17:33:07 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[16-Sep-2017 17:33:07 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[16-Sep-2017 17:33:07 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[16-Sep-2017 17:33:07 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[16-Sep-2017 17:33:07 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[16-Sep-2017 17:33:07 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[16-Sep-2017 17:33:07 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[16-Sep-2017 17:33:07 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[16-Sep-2017 17:33:07 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[16-Sep-2017 17:33:07 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[16-Sep-2017 17:33:07 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[16-Sep-2017 17:33:07 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[16-Sep-2017 17:33:07 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[16-Sep-2017 17:33:07 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[16-Sep-2017 17:33:07 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[16-Sep-2017 17:33:07 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[16-Sep-2017 17:33:07 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[16-Sep-2017 17:33:07 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[16-Sep-2017 17:33:07 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[16-Sep-2017 17:33:07 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[16-Sep-2017 17:33:07 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[16-Sep-2017 17:33:07 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[16-Sep-2017 17:33:07 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[16-Sep-2017 17:33:07 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[16-Sep-2017 17:33:07 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[16-Sep-2017 17:33:07 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[16-Sep-2017 17:33:07 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[16-Sep-2017 17:33:07 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[16-Sep-2017 17:33:07 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[16-Sep-2017 17:33:07 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[16-Sep-2017 17:33:07 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[16-Sep-2017 17:33:07 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[16-Sep-2017 17:33:07 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[16-Sep-2017 17:33:07 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[16-Sep-2017 17:33:07 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[16-Sep-2017 17:33:07 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[16-Sep-2017 17:33:07 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[16-Sep-2017 17:33:07 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[16-Sep-2017 17:33:07 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[16-Sep-2017 17:33:11 UTC] PHP Warning:  getimagesize(/home/oneooneeco/public_html/wp-content/uploads/revslider/objects/relax_hammock.jpg): failed to open stream: No such file or directory in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 1889
+[16-Sep-2017 17:33:11 UTC] PHP Warning:  getimagesize(/home/oneooneeco/public_html/wp-content/uploads/revslider/objects/object_pen_1.png): failed to open stream: No such file or directory in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 1889
+[16-Sep-2017 17:33:11 UTC] PHP Warning:  getimagesize(/home/oneooneeco/public_html/wp-content/uploads/revslider/objects/beach_houses.jpg): failed to open stream: No such file or directory in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 1889
+[16-Sep-2017 17:33:11 UTC] PHP Warning:  getimagesize(/home/oneooneeco/public_html/wp-content/uploads/revslider/objects/forest_road_2.jpg): failed to open stream: No such file or directory in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 1889
+[16-Sep-2017 17:33:11 UTC] PHP Warning:  getimagesize(/home/oneooneeco/public_html/wp-content/uploads/revslider/objects/object_dvd_1.png): failed to open stream: No such file or directory in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 1889
+[16-Sep-2017 17:33:12 UTC] PHP Warning:  getimagesize(/home/oneooneeco/public_html/wp-content/uploads/revslider/objects/object_plant_1.png): failed to open stream: No such file or directory in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 1889
+[16-Sep-2017 14:44:01 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[16-Sep-2017 14:48:42 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[16-Sep-2017 14:48:49 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[16-Sep-2017 14:48:55 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[16-Sep-2017 14:49:05 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[16-Sep-2017 14:54:02 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[16-Sep-2017 14:59:50 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[16-Sep-2017 14:59:57 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[16-Sep-2017 15:00:03 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[16-Sep-2017 15:00:10 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[16-Sep-2017 15:00:13 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[16-Sep-2017 15:13:27 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[16-Sep-2017 15:13:32 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[16-Sep-2017 15:13:39 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[16-Sep-2017 15:13:45 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[16-Sep-2017 15:13:54 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[16-Sep-2017 15:29:55 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[16-Sep-2017 15:30:02 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[16-Sep-2017 15:30:08 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[16-Sep-2017 15:30:14 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[16-Sep-2017 15:30:22 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[16-Sep-2017 16:30:03 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[20-Sep-2017 15:06:21 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[20-Sep-2017 15:33:05 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[20-Sep-2017 15:57:46 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[26-Sep-2017 15:59:35 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[28-Sep-2017 11:21:07 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[28-Sep-2017 15:57:26 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[28-Sep-2017 15:57:50 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[28-Sep-2017 16:03:58 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[29-Sep-2017 07:32:06 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[29-Sep-2017 09:31:40 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[29-Sep-2017 09:32:15 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[29-Sep-2017 09:41:26 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[04-Oct-2017 09:16:22 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[04-Oct-2017 13:33:58 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[04-Oct-2017 13:38:04 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[05-Oct-2017 12:59:39 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[05-Oct-2017 13:03:54 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[05-Oct-2017 13:04:03 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[05-Oct-2017 13:04:10 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[11-Oct-2017 15:28:18 UTC] WordPress database error MySQL server has gone away for query SELECT autoload FROM wp_options WHERE option_name = 'rs-templates' made by require_once('wp-admin/admin.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), include_once('/plugins/revslider/revslider.php'), RevSliderAdmin->__construct, RevSliderAdmin->init, RevSliderTemplate->_get_template_list, RevSliderTemplate->update_template_list, RevSliderTemplate->_update_images, RevSliderFunctionsWP::update_option, delete_option, dbrc_wpdb->query, dbrc_wpdb->dbcr_query
+[11-Oct-2017 15:28:18 UTC] WordPress database error MySQL server has gone away for query SELECT option_value FROM wp_options WHERE option_name = 'revslider_change_database' LIMIT 1 made by require_once('wp-admin/admin.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('plugins_loaded'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, RevSliderFront::createDBTables, get_option, dbrc_wpdb->query, dbrc_wpdb->dbcr_query
+[11-Oct-2017 15:28:18 UTC] WordPress database error MySQL server has gone away for query UPDATE `wp_options` SET `option_value` = '1' WHERE `option_name` = 'rs_tables_created' made by require_once('wp-admin/admin.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('plugins_loaded'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, RevSliderFront::createDBTables, update_option, dbrc_wpdb->query, dbrc_wpdb->dbcr_query
+[11-Oct-2017 15:28:19 UTC] Erro de banco de dados do WordPress MySQL server has gone away para a consulta SELECT option_value FROM wp_options WHERE option_name = 'sbg_sidebars' LIMIT 1 feita por require_once('wp-admin/admin.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, wp_widgets_init, do_action('widgets_init'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, sidebar_generator::init, sidebar_generator::get_sidebars, get_option, dbrc_wpdb->query, dbrc_wpdb->dbcr_query
+[11-Oct-2017 15:28:19 UTC] Erro de banco de dados do WordPress MySQL server has gone away para a consulta SELECT option_value FROM wp_options WHERE option_name = 'woocommerce_permalinks' LIMIT 1 feita por require_once('wp-admin/admin.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WC_Post_types::register_taxonomies, wc_get_permalink_structure, get_option, dbrc_wpdb->query, dbrc_wpdb->dbcr_query
+[11-Oct-2017 15:28:19 UTC] Erro de banco de dados do WordPress MySQL server has gone away para a consulta SELECT * FROM wp_posts WHERE ID = 242 LIMIT 1 feita por require_once('wp-admin/admin.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WC_Post_types::register_post_types, get_post, WP_Post::get_instance, dbrc_wpdb->query, dbrc_wpdb->dbcr_query
+[11-Oct-2017 15:28:19 UTC] Erro de banco de dados do WordPress MySQL server has gone away para a consulta SELECT option_value FROM wp_options WHERE option_name = 'wpb_js_less_version' LIMIT 1 feita por require_once('wp-admin/admin.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, Vc_Manager->init, do_action('vc_before_init'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, vc_check_for_custom_css_build, Vc_Settings->getCustomCssVersion, get_option, dbrc_wpdb->query, dbrc_wpdb->dbcr_query
+[11-Oct-2017 15:28:19 UTC] Erro de banco de dados do WordPress MySQL server has gone away para a consulta SELECT option_value FROM wp_options WHERE option_name = '_transient_timeout_zozo_mailchimp_api_key_feed' LIMIT 1 feita por require_once('wp-admin/admin.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, Vc_Manager->init, do_action('vc_before_init'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, zozo_vc_mailchimp_form_shortcode_map, get_mailing_lists_format, get_transient, get_option, dbrc_wpdb->query, dbrc_wpdb->dbcr_query
+[11-Oct-2017 15:28:19 UTC] Erro de banco de dados do WordPress MySQL server has gone away para a consulta SELECT option_value FROM wp_options WHERE option_name = '_transient_zozo_mailchimp_api_key_feed' LIMIT 1 feita por require_once('wp-admin/admin.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, Vc_Manager->init, do_action('vc_before_init'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, zozo_vc_mailchimp_form_shortcode_map, get_mailing_lists_format, get_transient, get_option, dbrc_wpdb->query, dbrc_wpdb->dbcr_query
+[11-Oct-2017 15:28:19 UTC] Erro de banco de dados do WordPress MySQL server has gone away para a consulta SELECT option_value FROM wp_options WHERE option_name = '_transient_timeout_zozo_mailchimp_lists' LIMIT 1 feita por require_once('wp-admin/admin.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, Vc_Manager->init, do_action('vc_before_init'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, zozo_vc_mailchimp_form_shortcode_map, get_mailing_lists_format, get_transient, get_option, dbrc_wpdb->query, dbrc_wpdb->dbcr_query
+[11-Oct-2017 15:28:19 UTC] Erro de banco de dados do WordPress MySQL server has gone away para a consulta SELECT option_value FROM wp_options WHERE option_name = '_transient_zozo_mailchimp_lists' LIMIT 1 feita por require_once('wp-admin/admin.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, Vc_Manager->init, do_action('vc_before_init'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, zozo_vc_mailchimp_form_shortcode_map, get_mailing_lists_format, get_transient, get_option, dbrc_wpdb->query, dbrc_wpdb->dbcr_query
+[11-Oct-2017 15:28:19 UTC] Erro de banco de dados do WordPress MySQL server has gone away para a consulta SELECT option_value FROM wp_options WHERE option_name = 'vc_automapped_shortcodes' LIMIT 1 feita por require_once('wp-admin/admin.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, Vc_Manager->init, Vc_Automapper::map, Vc_Automap_Model::findAll, Vc_Automap_Model::loadOptionData, get_option, dbrc_wpdb->query, dbrc_wpdb->dbcr_query
+[11-Oct-2017 15:28:19 UTC] Erro de banco de dados do WordPress MySQL server has gone away para a consulta SELECT option_value FROM wp_options WHERE option_name = '_transient_timeout_doing_cron' LIMIT 1 feita por require_once('wp-admin/admin.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, wp_cron, spawn_cron, get_transient, get_option, dbrc_wpdb->query, dbrc_wpdb->dbcr_query
+[11-Oct-2017 15:28:19 UTC] Erro de banco de dados do WordPress MySQL server has gone away para a consulta SELECT option_value FROM wp_options WHERE option_name = '_transient_doing_cron' LIMIT 1 feita por require_once('wp-admin/admin.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, wp_cron, spawn_cron, get_transient, get_option, dbrc_wpdb->query, dbrc_wpdb->dbcr_query
+[11-Oct-2017 15:28:19 UTC] Erro de banco de dados do WordPress MySQL server has gone away para a consulta INSERT INTO `wp_options` (`option_name`, `option_value`, `autoload`) VALUES ('_transient_doing_cron', '1507735699.9867200851440429687500', 'yes') ON DUPLICATE KEY UPDATE `option_name` = VALUES(`option_name`), `option_value` = VALUES(`option_value`), `autoload` = VALUES(`autoload`) feita por require_once('wp-admin/admin.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, wp_cron, spawn_cron, set_transient, add_option, dbrc_wpdb->query, dbrc_wpdb->dbcr_query
+[11-Oct-2017 15:28:20 UTC] Erro de banco de dados do WordPress MySQL server has gone away para a consulta SELECT option_value FROM wp_options WHERE option_name = 'ewww_image_optimizer_debug' LIMIT 1 feita por require_once('wp-admin/admin.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, ewww_image_optimizer_gallery_support, ewwwio_debug_message, ewww_image_optimizer_get_option, get_option, dbrc_wpdb->query, dbrc_wpdb->dbcr_query
+[11-Oct-2017 15:28:21 UTC] Erro de banco de dados do WordPress MySQL server has gone away para a consulta SELECT option_value FROM wp_options WHERE option_name = 'revSliderAsTheme' LIMIT 1 feita por require_once('wp-admin/admin.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, zozo_set_Rev_Slider_as_theme, set_revslider_as_theme, get_option, dbrc_wpdb->query, dbrc_wpdb->dbcr_query
+[11-Oct-2017 15:28:21 UTC] Erro de banco de dados do WordPress MySQL server has gone away para a consulta SELECT  t.*, tt.* FROM wp_terms AS t  INNER JOIN wp_term_taxonomy AS tt ON t.term_id = tt.term_id WHERE tt.taxonomy IN ('testimonial_categories') ORDER BY t.name ASC  feita por require_once('wp-admin/admin.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, zozo_vc_extend_params_init, require_once('/themes/mist/includes/visual-composer/vc-params.php'), get_categories, get_terms, WP_Term_Query->query, WP_Term_Query->get_terms, dbrc_wpdb->query, dbrc_wpdb->dbcr_query
+[11-Oct-2017 15:28:21 UTC] Erro de banco de dados do WordPress MySQL server has gone away para a consulta SELECT  t.*, tt.* FROM wp_terms AS t  INNER JOIN wp_term_taxonomy AS tt ON t.term_id = tt.term_id WHERE tt.taxonomy IN ('team_categories') ORDER BY t.name ASC  feita por require_once('wp-admin/admin.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, zozo_vc_extend_params_init, require_once('/themes/mist/includes/visual-composer/vc-params.php'), get_categories, get_terms, WP_Term_Query->query, WP_Term_Query->get_terms, dbrc_wpdb->query, dbrc_wpdb->dbcr_query
+[11-Oct-2017 15:28:21 UTC] Erro de banco de dados do WordPress MySQL server has gone away para a consulta SELECT  t.*, tt.*, tm.meta_value FROM wp_terms AS t  INNER JOIN wp_term_taxonomy AS tt ON t.term_id = tt.term_id LEFT JOIN wp_termmeta AS tm ON (t.term_id = tm.term_id AND tm.meta_key = 'order')  WHERE tt.taxonomy IN ('product_cat')  GROUP BY t.term_id ORDER BY tm.meta_value+0 ASC, t.name ASC  feita por require_once('wp-admin/admin.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, zozo_vc_extend_params_init, require_once('/themes/mist/includes/visual-composer/vc-params.php'), get_categories, get_terms, WP_Term_Query->query, WP_Term_Query->get_terms, dbrc_wpdb->query, dbrc_wpdb->dbcr_query
+[11-Oct-2017 15:28:21 UTC] Erro de banco de dados do WordPress MySQL server has gone away para a consulta SELECT option_value FROM wp_options WHERE option_name = '_transient_timeout_bsf_check_product_updates' LIMIT 1 feita por require_once('wp-admin/admin.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, bsf_core_load, include_once('/plugins/Ultimate_VC_Addons/admin/bsf-core/index.php'), require_once('/plugins/Ultimate_VC_Addons/admin/bsf-core/auto-update/updater.php'), get_transient, get_option, dbrc_wpdb->query, dbrc_wpdb->dbcr_query
+[11-Oct-2017 15:28:21 UTC] Erro de banco de dados do WordPress MySQL server has gone away para a consulta SELECT option_value FROM wp_options WHERE option_name = '_transient_bsf_check_product_updates' LIMIT 1 feita por require_once('wp-admin/admin.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, bsf_core_load, include_once('/plugins/Ultimate_VC_Addons/admin/bsf-core/index.php'), require_once('/plugins/Ultimate_VC_Addons/admin/bsf-core/auto-update/updater.php'), get_transient, get_option, dbrc_wpdb->query, dbrc_wpdb->dbcr_query
+[11-Oct-2017 15:28:21 UTC] Erro de banco de dados do WordPress MySQL server has gone away para a consulta SELECT option_value FROM wp_options WHERE option_name = 'db_upgraded' LIMIT 1 feita por require_once('wp-admin/admin.php'), get_option, dbrc_wpdb->query, dbrc_wpdb->dbcr_query
+[16-Oct-2017 08:02:48 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[02-Nov-2017 15:55:05 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[02-Nov-2017 15:55:13 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[09-Nov-2017 12:38:38 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[09-Nov-2017 13:01:38 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[14-Nov-2017 06:30:42 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[14-Nov-2017 06:34:55 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[22-Dec-2017 20:31:43 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[22-Dec-2017 20:31:43 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[22-Dec-2017 20:31:43 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[22-Dec-2017 20:31:43 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[22-Dec-2017 20:31:43 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[22-Dec-2017 20:31:43 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[22-Dec-2017 20:31:43 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[22-Dec-2017 20:31:43 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[22-Dec-2017 20:31:43 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[22-Dec-2017 20:31:43 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[22-Dec-2017 20:31:43 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[22-Dec-2017 20:31:43 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[22-Dec-2017 20:31:43 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[22-Dec-2017 20:31:43 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[22-Dec-2017 20:31:43 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[22-Dec-2017 20:31:43 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[22-Dec-2017 20:31:43 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[22-Dec-2017 20:31:43 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[22-Dec-2017 20:31:43 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[22-Dec-2017 20:31:43 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[22-Dec-2017 20:31:43 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[22-Dec-2017 20:31:43 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[22-Dec-2017 20:31:43 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[22-Dec-2017 20:31:43 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[22-Dec-2017 20:31:43 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[22-Dec-2017 20:31:43 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[22-Dec-2017 20:31:43 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[22-Dec-2017 20:31:43 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[22-Dec-2017 20:31:43 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[22-Dec-2017 20:31:43 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[22-Dec-2017 20:31:43 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[22-Dec-2017 20:31:43 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[22-Dec-2017 20:31:43 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[22-Dec-2017 20:31:43 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[22-Dec-2017 20:31:43 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[22-Dec-2017 20:31:43 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[22-Dec-2017 20:31:43 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[22-Dec-2017 20:31:43 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[22-Dec-2017 20:31:43 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[22-Dec-2017 20:31:43 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[22-Dec-2017 20:31:43 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[22-Dec-2017 20:31:43 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[22-Dec-2017 20:31:43 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[22-Dec-2017 20:31:43 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[22-Dec-2017 20:31:43 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[22-Dec-2017 20:31:43 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[22-Dec-2017 20:31:43 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[22-Dec-2017 20:31:43 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[22-Dec-2017 20:31:43 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[22-Dec-2017 20:31:43 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[22-Dec-2017 20:31:43 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[22-Dec-2017 20:31:43 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[22-Dec-2017 20:31:43 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[22-Dec-2017 20:31:43 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[22-Dec-2017 20:31:43 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[22-Dec-2017 20:31:43 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[22-Dec-2017 20:31:43 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[22-Dec-2017 20:31:43 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[22-Dec-2017 20:31:43 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[22-Dec-2017 20:31:43 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[22-Dec-2017 20:31:43 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[22-Dec-2017 20:31:43 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[22-Dec-2017 20:31:43 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[22-Dec-2017 20:31:43 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[22-Dec-2017 20:31:43 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[22-Dec-2017 20:31:43 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[22-Dec-2017 20:31:43 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[22-Dec-2017 20:31:43 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[22-Dec-2017 20:31:43 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[22-Dec-2017 20:31:43 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[22-Dec-2017 20:31:43 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[22-Dec-2017 20:31:43 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[22-Dec-2017 20:31:43 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[22-Dec-2017 20:31:43 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[22-Dec-2017 20:31:43 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[22-Dec-2017 20:31:43 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[22-Dec-2017 20:31:43 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[22-Dec-2017 20:31:43 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[22-Dec-2017 20:31:43 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[22-Dec-2017 20:31:43 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[22-Dec-2017 20:31:43 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[22-Dec-2017 20:31:43 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[22-Dec-2017 20:31:43 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[22-Dec-2017 20:31:43 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[22-Dec-2017 20:31:43 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[22-Dec-2017 20:31:43 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[22-Dec-2017 20:31:43 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[22-Dec-2017 20:31:43 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[22-Dec-2017 20:31:43 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[22-Dec-2017 20:31:43 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[22-Dec-2017 20:31:43 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[22-Dec-2017 20:31:43 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[22-Dec-2017 20:31:43 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[22-Dec-2017 20:31:43 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[22-Dec-2017 20:31:43 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[22-Dec-2017 20:31:43 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[22-Dec-2017 20:31:43 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[22-Dec-2017 20:31:43 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[22-Dec-2017 20:31:43 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[22-Dec-2017 20:31:43 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[22-Dec-2017 20:31:43 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[22-Dec-2017 20:31:43 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[22-Dec-2017 20:31:43 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[22-Dec-2017 20:31:43 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[22-Dec-2017 20:31:43 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[22-Dec-2017 20:31:43 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[22-Dec-2017 20:31:43 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[22-Dec-2017 20:31:43 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[22-Dec-2017 20:31:43 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[22-Dec-2017 20:31:43 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[22-Dec-2017 20:31:43 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[22-Dec-2017 20:31:43 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[22-Dec-2017 20:31:43 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[22-Dec-2017 20:31:43 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[22-Dec-2017 20:31:43 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[22-Dec-2017 20:31:43 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[22-Dec-2017 20:31:43 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[22-Dec-2017 20:31:43 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[22-Dec-2017 20:31:43 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[22-Dec-2017 20:31:43 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[22-Dec-2017 20:31:43 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[22-Dec-2017 20:31:43 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[22-Dec-2017 20:31:43 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[22-Dec-2017 20:31:43 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[22-Dec-2017 20:31:43 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[22-Dec-2017 20:31:43 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[22-Dec-2017 20:31:43 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[22-Dec-2017 20:31:43 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[22-Dec-2017 20:31:43 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[22-Dec-2017 20:31:43 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[22-Dec-2017 20:31:43 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[22-Dec-2017 20:31:43 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[22-Dec-2017 20:31:43 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[22-Dec-2017 20:31:43 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[22-Dec-2017 20:31:43 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[22-Dec-2017 20:31:43 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[22-Dec-2017 20:31:43 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[22-Dec-2017 20:31:43 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[22-Dec-2017 20:31:43 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[22-Dec-2017 20:31:43 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[22-Dec-2017 20:31:43 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[22-Dec-2017 20:31:43 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[22-Dec-2017 20:31:43 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[22-Dec-2017 20:31:43 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[22-Dec-2017 20:31:43 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[22-Dec-2017 20:31:43 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[22-Dec-2017 20:31:43 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[22-Dec-2017 20:31:43 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[22-Dec-2017 20:31:43 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[22-Dec-2017 20:31:43 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[22-Dec-2017 20:31:43 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[22-Dec-2017 20:31:43 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[22-Dec-2017 20:31:43 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[22-Dec-2017 20:31:43 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[22-Dec-2017 20:31:43 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[22-Dec-2017 20:31:43 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[22-Dec-2017 20:31:43 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[22-Dec-2017 20:31:43 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[22-Dec-2017 20:31:43 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[22-Dec-2017 20:31:43 UTC] PHP Warning:  Illegal string offset 'handle' in /home/oneooneeco/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 2193
+[05-Jan-2018 11:04:41 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[05-Jan-2018 11:04:47 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[05-Jan-2018 11:04:52 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[05-Jan-2018 11:04:56 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[05-Jan-2018 11:05:00 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[05-Jan-2018 11:05:05 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[05-Jan-2018 11:05:06 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[05-Jan-2018 12:22:24 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[05-Jan-2018 12:23:43 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[05-Jan-2018 12:27:34 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[05-Jan-2018 12:30:14 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[17-Jan-2018 12:27:16 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[02-Feb-2018 08:32:14 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[02-Feb-2018 08:32:21 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[02-Feb-2018 08:32:28 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[02-Feb-2018 08:32:34 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[02-Feb-2018 08:32:40 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[02-Feb-2018 08:32:40 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[02-Feb-2018 08:32:46 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[07-Feb-2018 13:09:13 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[07-Feb-2018 13:09:19 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[07-Feb-2018 13:09:27 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[07-Feb-2018 13:09:34 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[07-Feb-2018 13:09:39 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[15-Feb-2018 10:43:33 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[15-Feb-2018 10:43:41 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[15-Feb-2018 10:43:49 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[15-Feb-2018 10:43:55 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[16-Feb-2018 07:21:49 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[16-Feb-2018 13:21:51 UTC] [Cloudflare] ERROR: [CLIENT API] Array
+(
+    [type] => request
+    [path] => https://api.cloudflare.com/client/v4/user/
+    [timeout] => 30
+    [method] => GET
+    [headers] => Array
+        (
+            [X-Auth-Key] => d49dd06841ff598041f1f9f5f73222ea222fa
+            [X-Auth-Email] => gabriela.abreu88@gmail.com
+            [Content-Type] => application/json
+        )
+
+)
+ 
+[16-Feb-2018 13:21:51 UTC] [Cloudflare] ERROR: [CLIENT API] Array
+(
+    [type] => response
+    [reason] => Forbidden
+    [code] => 403
+)
+ 
+[16-Feb-2018 13:21:51 UTC] [Cloudflare] ERROR: Forbidden 
+[16-Feb-2018 13:21:51 UTC] [Cloudflare] ERROR: Email address or API key invalid. 
+[16-Feb-2018 07:22:41 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[16-Feb-2018 13:22:43 UTC] [Cloudflare] ERROR: [CLIENT API] Array
+(
+    [type] => request
+    [path] => https://api.cloudflare.com/client/v4/user/
+    [timeout] => 30
+    [method] => GET
+    [headers] => Array
+        (
+            [X-Auth-Key] => d49dd06841ff598041f1f9f5f73222ea222fa
+            [X-Auth-Email] => gabriela.abreu88@gmail.com
+            [Content-Type] => application/json
+        )
+
+)
+ 
+[16-Feb-2018 13:22:43 UTC] [Cloudflare] ERROR: [CLIENT API] Array
+(
+    [type] => response
+    [reason] => Forbidden
+    [code] => 403
+)
+ 
+[16-Feb-2018 13:22:43 UTC] [Cloudflare] ERROR: Forbidden 
+[16-Feb-2018 13:22:43 UTC] [Cloudflare] ERROR: Email address or API key invalid. 
+[16-Feb-2018 07:23:05 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[16-Feb-2018 13:23:08 UTC] [Cloudflare] ERROR: [CLIENT API] Array
+(
+    [type] => request
+    [path] => https://api.cloudflare.com/client/v4/user/
+    [timeout] => 30
+    [method] => GET
+    [headers] => Array
+        (
+            [X-Auth-Key] => d49dd06841ff598041f1f9f5f73222ea222fa
+            [X-Auth-Email] => gabriela.abreu88@gmail.com
+            [Content-Type] => application/json
+        )
+
+)
+ 
+[16-Feb-2018 13:23:08 UTC] [Cloudflare] ERROR: [CLIENT API] Array
+(
+    [type] => response
+    [reason] => Forbidden
+    [code] => 403
+)
+ 
+[16-Feb-2018 13:23:08 UTC] [Cloudflare] ERROR: Forbidden 
+[16-Feb-2018 13:23:08 UTC] [Cloudflare] ERROR: Email address or API key invalid. 
+[16-Feb-2018 07:23:44 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[16-Feb-2018 13:23:47 UTC] [Cloudflare] ERROR: [CLIENT API] Array
+(
+    [type] => request
+    [path] => https://api.cloudflare.com/client/v4/user/
+    [timeout] => 30
+    [method] => GET
+    [headers] => Array
+        (
+            [X-Auth-Key] => d49dd06841ff598041f1f9f5f73222ea222fa
+            [X-Auth-Email] => gabriela.abreu88@gmail.com
+            [Content-Type] => application/json
+        )
+
+)
+ 
+[16-Feb-2018 13:23:47 UTC] [Cloudflare] ERROR: [CLIENT API] Array
+(
+    [type] => response
+    [reason] => Forbidden
+    [code] => 403
+)
+ 
+[16-Feb-2018 13:23:47 UTC] [Cloudflare] ERROR: Forbidden 
+[16-Feb-2018 13:23:47 UTC] [Cloudflare] ERROR: Email address or API key invalid. 
+[16-Feb-2018 07:31:54 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[16-Feb-2018 13:31:56 UTC] [Cloudflare] ERROR: [CLIENT API] Array
+(
+    [type] => request
+    [path] => https://api.cloudflare.com/client/v4/user/
+    [timeout] => 30
+    [method] => GET
+    [headers] => Array
+        (
+            [X-Auth-Key] => d49dd06841ff598041f1f9f5f73222ea222fa
+            [X-Auth-Email] => gabriela.abreu88@gmail.com
+            [Content-Type] => application/json
+        )
+
+)
+ 
+[16-Feb-2018 13:31:56 UTC] [Cloudflare] ERROR: [CLIENT API] Array
+(
+    [type] => response
+    [reason] => Forbidden
+    [code] => 403
+)
+ 
+[16-Feb-2018 13:31:56 UTC] [Cloudflare] ERROR: Forbidden 
+[16-Feb-2018 13:31:56 UTC] [Cloudflare] ERROR: Email address or API key invalid. 
+[16-Feb-2018 07:33:32 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[16-Feb-2018 13:33:36 UTC] [Cloudflare] ERROR: [CLIENT API] Array
+(
+    [type] => request
+    [path] => https://api.cloudflare.com/client/v4/user/
+    [timeout] => 30
+    [method] => GET
+    [headers] => Array
+        (
+            [X-Auth-Key] => d49dd06841ff598041f1f9f5f73222ea222fa
+            [X-Auth-Email] => gabriela.abreu88@gmail.com
+            [Content-Type] => application/json
+        )
+
+)
+ 
+[16-Feb-2018 13:33:36 UTC] [Cloudflare] ERROR: [CLIENT API] Array
+(
+    [type] => response
+    [reason] => Forbidden
+    [code] => 403
+)
+ 
+[16-Feb-2018 13:33:36 UTC] [Cloudflare] ERROR: Forbidden 
+[16-Feb-2018 13:33:36 UTC] [Cloudflare] ERROR: Email address or API key invalid. 
+[16-Feb-2018 07:34:12 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[16-Feb-2018 13:34:15 UTC] [Cloudflare] ERROR: [CLIENT API] Array
+(
+    [type] => request
+    [path] => https://api.cloudflare.com/client/v4/user/
+    [timeout] => 30
+    [method] => GET
+    [headers] => Array
+        (
+            [X-Auth-Key] => d49dd06841ff598041f1f9f5f73222ea222fa
+            [X-Auth-Email] => gabriela.abreu88@gmail.com
+            [Content-Type] => application/json
+        )
+
+)
+ 
+[16-Feb-2018 13:34:15 UTC] [Cloudflare] ERROR: [CLIENT API] Array
+(
+    [type] => response
+    [reason] => Forbidden
+    [code] => 403
+)
+ 
+[16-Feb-2018 13:34:15 UTC] [Cloudflare] ERROR: Forbidden 
+[16-Feb-2018 13:34:15 UTC] [Cloudflare] ERROR: Email address or API key invalid. 
+[16-Feb-2018 07:35:02 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[16-Feb-2018 13:35:05 UTC] [Cloudflare] ERROR: [CLIENT API] Array
+(
+    [type] => request
+    [path] => https://api.cloudflare.com/client/v4/user/
+    [timeout] => 30
+    [method] => GET
+    [headers] => Array
+        (
+            [X-Auth-Key] => d49dd06841ff598041f1f9f5f73222ea222fa
+            [X-Auth-Email] => gabriela.abreu88@gmail.com
+            [Content-Type] => application/json
+        )
+
+)
+ 
+[16-Feb-2018 13:35:05 UTC] [Cloudflare] ERROR: [CLIENT API] Array
+(
+    [type] => response
+    [reason] => Forbidden
+    [code] => 403
+)
+ 
+[16-Feb-2018 13:35:05 UTC] [Cloudflare] ERROR: Forbidden 
+[16-Feb-2018 13:35:05 UTC] [Cloudflare] ERROR: Email address or API key invalid. 
+[16-Feb-2018 07:40:45 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[16-Feb-2018 13:40:47 UTC] [Cloudflare] ERROR: [CLIENT API] Array
+(
+    [type] => request
+    [path] => https://api.cloudflare.com/client/v4/user/
+    [timeout] => 30
+    [method] => GET
+    [headers] => Array
+        (
+            [X-Auth-Key] => d49dd06841ff598041f1f9f5f73222ea222fa
+            [X-Auth-Email] => gabriela.abreu88@gmail.com
+            [Content-Type] => application/json
+        )
+
+)
+ 
+[16-Feb-2018 13:40:47 UTC] [Cloudflare] ERROR: [CLIENT API] Array
+(
+    [type] => response
+    [reason] => Forbidden
+    [code] => 403
+)
+ 
+[16-Feb-2018 13:40:47 UTC] [Cloudflare] ERROR: Forbidden 
+[16-Feb-2018 13:40:47 UTC] [Cloudflare] ERROR: Email address or API key invalid. 
+[16-Feb-2018 07:42:14 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[16-Feb-2018 13:42:17 UTC] [Cloudflare] ERROR: [CLIENT API] Array
+(
+    [type] => request
+    [path] => https://api.cloudflare.com/client/v4/user/
+    [timeout] => 30
+    [method] => GET
+    [headers] => Array
+        (
+            [X-Auth-Key] => d49dd06841ff598041f1f9f5f73222ea222fa
+            [X-Auth-Email] => gabriela.abreu88@gmail.com
+            [Content-Type] => application/json
+        )
+
+)
+ 
+[16-Feb-2018 13:42:17 UTC] [Cloudflare] ERROR: [CLIENT API] Array
+(
+    [type] => response
+    [reason] => Forbidden
+    [code] => 403
+)
+ 
+[16-Feb-2018 13:42:17 UTC] [Cloudflare] ERROR: Forbidden 
+[16-Feb-2018 13:42:17 UTC] [Cloudflare] ERROR: Email address or API key invalid. 
+[16-Feb-2018 15:16:43 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/oneooneeco/public_html/wp-content/plugins/hreflang-tags-by-dcgws/includes/functions.php on line 414
+[16-Feb-2018 15:16:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/oneooneeco/public_html/wp-content/plugins/hreflang-tags-by-dcgws/includes/functions.php on line 423
+[25-Feb-2018 15:38:11 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[06-Mar-2018 14:34:40 UTC] [Cloudflare] ERROR: [CLIENT API] Array
+(
+    [type] => request
+    [path] => https://api.cloudflare.com/client/v4/zones?action=cloudflare_proxy
+    [timeout] => 30
+    [method] => GET
+    [headers] => Array
+        (
+            [X-Auth-Key] => d49dd06841ff598041f1f9f5f73222ea222fa
+            [X-Auth-Email] => gabriela.abreu88@gmail.com
+            [Content-Type] => application/json
+        )
+
+)
+ 
+[06-Mar-2018 14:34:40 UTC] [Cloudflare] ERROR: [CLIENT API] Array
+(
+    [type] => response
+    [reason] => cURL error 28: Operation timed out after 30000 milliseconds with 0 bytes received
+    [code] => http_request_failed
+    [body] => cURL error 28: Operation timed out after 30000 milliseconds with 0 bytes received
+)
+ 
+[06-Mar-2018 14:34:40 UTC] [Cloudflare] ERROR: cURL error 28: Operation timed out after 30000 milliseconds with 0 bytes received 
+[06-Mar-2018 14:35:31 UTC] [Cloudflare] ERROR: [CLIENT API] Array
+(
+    [type] => request
+    [path] => https://api.cloudflare.com/client/v4/zones?action=cloudflare_proxy
+    [timeout] => 30
+    [method] => GET
+    [headers] => Array
+        (
+            [X-Auth-Key] => d49dd06841ff598041f1f9f5f73222ea222fa
+            [X-Auth-Email] => gabriela.abreu88@gmail.com
+            [Content-Type] => application/json
+        )
+
+)
+ 
+[06-Mar-2018 14:35:31 UTC] [Cloudflare] ERROR: [CLIENT API] Array
+(
+    [type] => response
+    [reason] => cURL error 28: Operation timed out after 30000 milliseconds with 0 bytes received
+    [code] => http_request_failed
+    [body] => cURL error 28: Operation timed out after 30000 milliseconds with 0 bytes received
+)
+ 
+[06-Mar-2018 14:35:31 UTC] [Cloudflare] ERROR: cURL error 28: Operation timed out after 30000 milliseconds with 0 bytes received 
+[27-Mar-2018 13:11:56 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[27-Mar-2018 14:42:26 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[30-Apr-2018 16:58:01 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0

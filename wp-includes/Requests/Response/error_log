@@ -1,0 +1,2 @@
+[02-Oct-2017 15:59:46 America/Chicago] PHP Fatal error:  Class 'Requests_Utility_CaseInsensitiveDictionary' not found in /home/oneooneeco/public_html/wp-includes/Requests/Response/Headers.php on line 13
+[18-Oct-2017 16:59:21 America/Chicago] PHP Fatal error:  Class 'Requests_Utility_CaseInsensitiveDictionary' not found in /home/oneooneeco/public_html/wp-includes/Requests/Response/Headers.php on line 13

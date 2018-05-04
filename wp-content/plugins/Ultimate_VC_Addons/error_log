@@ -1,0 +1,2 @@
+[02-Oct-2017 16:08:26 America/Chicago] PHP Fatal error:  Call to undefined function plugin_dir_url() in /home/oneooneeco/public_html/wp-content/plugins/Ultimate_VC_Addons/Ultimate_VC_Addons.php on line 21
+[18-Oct-2017 17:10:08 America/Chicago] PHP Fatal error:  Call to undefined function plugin_dir_url() in /home/oneooneeco/public_html/wp-content/plugins/Ultimate_VC_Addons/Ultimate_VC_Addons.php on line 21

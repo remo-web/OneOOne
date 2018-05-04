@@ -1,0 +1,2 @@
+[02-Oct-2017 15:58:21 America/Chicago] PHP Fatal error:  Class 'WP_HTTP_Response' not found in /home/oneooneeco/public_html/wp-includes/rest-api/class-wp-rest-response.php on line 17
+[18-Oct-2017 16:53:18 America/Chicago] PHP Fatal error:  Class 'WP_HTTP_Response' not found in /home/oneooneeco/public_html/wp-includes/rest-api/class-wp-rest-response.php on line 17

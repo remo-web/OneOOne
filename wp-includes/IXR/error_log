@@ -1,0 +1,5 @@
+[02-Oct-2017 15:58:15 America/Chicago] PHP Fatal error:  Class 'IXR_Client' not found in /home/oneooneeco/public_html/wp-includes/IXR/class-IXR-clientmulticall.php on line 9
+[02-Oct-2017 15:58:15 America/Chicago] PHP Fatal error:  Class 'IXR_Server' not found in /home/oneooneeco/public_html/wp-includes/IXR/class-IXR-introspectionserver.php on line 10
+[02-Oct-2017 16:11:26 America/Chicago] PHP Fatal error:  Class 'IXR_Client' not found in /home/oneooneeco/public_html/wp-includes/IXR/class-IXR-clientmulticall.php on line 9
+[18-Oct-2017 16:53:13 America/Chicago] PHP Fatal error:  Class 'IXR_Client' not found in /home/oneooneeco/public_html/wp-includes/IXR/class-IXR-clientmulticall.php on line 9
+[18-Oct-2017 16:53:13 America/Chicago] PHP Fatal error:  Class 'IXR_Server' not found in /home/oneooneeco/public_html/wp-includes/IXR/class-IXR-introspectionserver.php on line 10
